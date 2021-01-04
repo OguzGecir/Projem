@@ -1,0 +1,43 @@
+[{
+		"AdiSoyadi": "Corey Taylor",
+		"Pozisyonu": "Vokalist",
+		"ResimURL": "https://raw.githubusercontent.com/OguzGecir/Projem/main/coreytaylor.jpg",
+		"DogumTarihi": "8 Aralık 1973",
+		"Boyu": "1.7m"
+
+	},
+
+
+
+	{
+		"AdiSoyadi": "Jay Weinberg",
+		"Pozisyonu": "Baterist",
+		"ResimURL": "https://raw.githubusercontent.com/OguzGecir/Projem/main/Jay.jpg",
+		"DogumTarihi": "8 Eylül 1990
+		"Boyu": "1.84M"
+	}, {
+		"AdiSoyadi": "Mick Thomson",
+		"Pozisyonu": "Gitarist",
+		"ResimURL": "https://raw.githubusercontent.com/OguzGecir/Projem/main/MickThomson.jpg",
+		"DogumTarihi": "3 Kasım 1973",
+		"Boyu": "1.93M"
+	}, {
+		"AdiSoyadi": "James Root",
+		"Pozisyonu": "Gitarist",
+		"ResimURL": "https://raw.githubusercontent.com/OguzGecir/Projem/main/JamesRoot.jpg",
+		"DogumTarihi": "2 Ekim 1971",
+		"Boyu": "1.98M"
+	}, {
+		"AdiSoyadi": "Sid Wilson",
+		"Pozisyonu": "DJ",
+		"ResimURL": "https://raw.githubusercontent.com/OguzGecir/Projem/main/SidWilson.jpg",
+		"DogumTarihi": "20 Ocak 1977",
+		"Boyu": "1.74m"
+	}, {
+		"AdiSoyadi": "Alessandro Venturella",
+		"Pozisyonu": "Gitarist (Bass)",
+		"ResimURL": "https://raw.githubusercontent.com/OguzGecir/Projem/main/Alesso.jpg",
+		"DogumTarihi": "7 Mart 1978",
+		"Boyu": "1.85m"
+	}
+]
