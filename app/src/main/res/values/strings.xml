@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">H5190076_OguzcanGecirFinal</string>
+    <string name="Baslik">Çıkış</string>
+    <string name="Evet">Evet</string>
+    <string name="Hayir">Hayır</string>
+    <string name ="Mesaj">Çıkmak istediğinizden emin misiniz ?</string>
+
+    <string name="InternetKontrolBaslik">İnternet ayarları</string>
+    <string name="InternetKontrolEvet">İnternet ayarlarına git</string>
+    <string name="InternetKontrolHayir">Çıkış</string>
+    <string name="InternetKontrolMesaj">Uygulamayı kullanmak için internet bağlatısına ihtiyacınız var.</string>
+    <string name="InternetKontrolScreen">SplashActivity</string>
+
+    <string name="ListeActivity">ListeActivity</string>
+    <string name="SplashActivity">SplashActivity</string>
+
+    <string name="Alert">Lütfen Bekleyiniz…</string>
+    <string name="InternetUyari">İnternet Bağlantınız Yok!</string>
+</resources>

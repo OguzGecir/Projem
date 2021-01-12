@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding10dp">10dp</dimen>
+    <dimen name="padding5dp">5dp</dimen>
+    <dimen name="cardViewUyeAdiTextSize">25sp</dimen>
+    <dimen name="padding50dp">50dp</dimen>
+    <dimen name="uyeBilgiEkraniBaslikBoyutu">30sp</dimen>
+    <dimen name="uyeBilgiEkraniYaziBoyutu">24sp</dimen>
+    <dimen name="Padding10dp">10dp</dimen>
+    <dimen name="uyeBilgiEkraniLogoHeight">516dp</dimen>
+    <dimen name="ListeEkraniLogoHeight">200dp</dimen>
+    <dimen name="SplashEkraniLogoWidth">378dp</dimen>
+    <dimen name="SplashEkraniLogoHeight">731dp</dimen>
+    <dimen name="margin16dp">16dp</dimen>
+    <dimen name="margin8dp">8dp</dimen>
+    <dimen name="margin4dp">4dp</dimen>
+    <dimen name="margin28dp">28dp</dimen>
+    <dimen name="height130dp">130dp</dimen>
+    <dimen name="width130dp">130dp</dimen>
+
+
+
+</resources>
